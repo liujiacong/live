@@ -1,0 +1,170 @@
+*{
+	padding:0;
+	margin:0;
+}
+.content{
+	width:1206px;
+	margin:auto;
+}
+.dingbu{
+	height:35px;
+	width:1200px;
+}
+.dingbu span{
+	color:#bbbbbb;
+	font-size:12px;
+	font-family:"宋体";
+	line-height:35px;
+}
+.one{
+	width:122px;
+	height:409px;
+	background:#f7f7f7;
+	float: left;
+	position:relative;
+}
+.one ul li{
+	list-style: none;
+	width:122px;
+	height:37px;
+	text-indent: 2em;
+	line-height:37px;
+	font-size:12px;
+}
+.one ul li a{
+	text-decoration:none;
+	font-size:12px;
+	color:#868585;
+	display:block;
+}
+.one ul li a:hover{
+	color:#ff802b;
+}
+#bian{
+	background-color:#ff6600;
+	color:#ffffff;
+}
+#bian a{
+	color:#ffffff;
+	font-family:'微软雅黑';
+	font-weight:bold;
+}
+.mid{
+	width:1048px;
+	height:609px;
+	border:1px solid #e8e8e8;
+	float:left;
+	margin-left:27px;
+	position:relative;
+}
+.shaiow{
+	position:absolute;
+	left:17px;
+	top:18px;
+	font-size:17.32px;
+	font-family:"微软雅黑";
+	color:#333333;
+}
+.heng{
+	width:1006px;
+	height:1px;
+	background:#e8e8e8;
+	position:absolute;
+	left:17px;
+	top:68px;
+}
+.shoujihao{
+	position:absolute;
+	left:17px;
+	top:101px;
+	font-size:13.88px;
+	font-family:"微软雅黑";
+	color:#333333;
+}
+.sjma{
+	width: 238px;
+	height: 36px;
+	border:1px solid #e8e8e8;
+	outline: none;
+	padding-left:10px;
+	font-size:12px;
+	font-family:"微软雅黑";
+	color:#333333;
+}
+.sjma2{
+	width: 238px;
+	height: 36px;
+	border:1px solid #e8e8e8;
+	outline: none;
+	padding-left:10px;
+	font-size:12px;
+	font-family:"微软雅黑";
+	color:#333333;
+}
+.diahu{
+	width: 123px;
+	height: 36px;
+	border:1px solid #e8e8e8;
+	font-size:12px;
+	font-family:"微软雅黑";
+	color:#407bf4;
+	text-align:center;
+	line-height:36px;
+	text-decoration:none;
+	position:absolute;
+	left:360px;
+	top:101px;
+}
+.jiaoyanma{
+	position:absolute;
+	left:59px;
+	top:169px;
+	font-size:13.88px;
+	font-family:"微软雅黑";
+	color:#333333;
+}
+.jiaoyanma2{
+	position:absolute;
+	left:45px;
+	top:237px;
+	font-size:13.88px;
+	font-family:"微软雅黑";
+	color:#333333;
+}
+.enter1{
+	width: 116px;
+	height: 29px;
+	background:#407bf4;
+	font-size:12px;
+	font-family:"微软雅黑";
+	color:#ffffff;
+	text-decoration:none;
+	text-align:center;line-height:29px;
+	position:absolute;
+	left:119px;
+	top: 300px;
+	border-radius:3px;
+}
+.sanshi{
+	width:123px;
+	height:35px;
+	position:absolute;
+	left:360px;
+	top:101px;
+	line-height:35px;
+	text-align:center;
+	font-size:12px;
+	font-family:"微软雅黑";
+	color:#bbbbbb;
+	border:1px solid #e8e8e8;
+	display:none;
+	background:#ffffff;
+}
+.dingbu a:hover{
+	text-decoration:none;
+	color:#ff802b;
+}
+.dingbu a{
+	text-decoration:none;
+	color:#bbbbbb;
+}

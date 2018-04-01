@@ -1,0 +1,29 @@
+
+a{
+	text-decoration:none !important;
+}
+.jiacong{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background: #404040;
+}
+.jiacong_con{
+	/*width:1098px;*/
+	margin:0 auto;
+	text-align:center;
+}
+.jiacong_con img{
+	position:relative;
+	vertical-align: middle;
+	left: -149px;
+    top: 39px;
+}
+.jiacong_con span{
+	font-size: 12px;
+    color: #eeeeee;
+    font-family:"微软雅黑";
+    position:relative;
+    left: 238px;
+    top: 0;
+}
